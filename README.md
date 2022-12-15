@@ -39,4 +39,4 @@ In addition, I have an unquenchable interest for GNU/Linux, web technologies, an
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leetovskiy&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leetovskiy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leetovskiy&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
