@@ -12,13 +12,13 @@
   <h1>Hey there 👋</h1>
 </div>
 
-<img src="https://github.com/Leetovskiy/Leetovskiy/blob/master/1480758633_.gif" width="100%" />
-
 ### 👨‍💻 About Me
 
 My name is Vitaliy Zaitsev (I call myself Leetovskiy). I do an explore and practice the Python programming language and certain technologies for back-end development.
 
 In addition, I'm particularly interested in GNU/Linux, web technologies, and everything related to computer science.
+
+<img src="https://github.com/Leetovskiy/Leetovskiy/blob/master/1480758633_.gif" />
 
 ---
 
