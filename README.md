@@ -18,7 +18,7 @@
 
 My name is Vitaliy Zaitsev (I call myself Leetovskiy). I do an explore and practice the Python programming language and certain technologies for back-end development.
 
-In addition, I have an unquenchable interest for GNU/Linux, web technologies, and everything related to computer science.
+In addition, I'm particularly interested in GNU/Linux, web technologies, and everything related to computer science.
 
 ---
 
