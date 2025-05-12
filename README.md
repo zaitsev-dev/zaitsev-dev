@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Vitaliy Zaitsev. I do an explore and practice the Python programming language and certain technologies for back-end development.<br><br>In addition, I'm particularly interested in GNU/Linux, web technologies, and everything related to computer science.<br><br>Currently I work as Automation Engineer at <a href="https://atom.auto/">Atom</a>.</p>
+<p align="left">My name is Vitaliy Zaitsev. I do an explore and practice the Python programming language and certain technologies for back-end development.<br><br>In addition, I'm particularly interested in GNU/Linux, web technologies, and everything related to computer science.<br></p>
 
 ###
 
